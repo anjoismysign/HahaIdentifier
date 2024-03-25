@@ -22,7 +22,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>me.anjoismysign.cropper.Cropper</mainClass>
+                            <mainClass>me.anjoismysign.identifier.Identifier</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
